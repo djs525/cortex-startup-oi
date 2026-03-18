@@ -22,7 +22,7 @@ Cortex is a system prompt that turns Claude into an autonomous operating agent f
 | `activate [MODULE]` | Plug in Engineering, Product, People, or Finance as your team grows |
 | `health check` | Verify all databases are connected and readable |
 
-Full command list: [`system-prompt/COMMANDS.md`](system-prompt/COMMANDS.md)
+Full command list: [`system-prompt/COMMANDS.md`](system-prompt/commands.md)
 
 ---
 
@@ -59,10 +59,10 @@ Duplicate the template and try it yourself:
 
 ## Get started
 
-1. [Build your Notion workspace](getting-started/01-build-your-notion-workspace.md) — ~30 min
-2. [Connect Notion MCP](getting-started/02-connect-notion-mcp.md) — ~5 min
-3. [Install the system prompt](getting-started/03-install-system-prompt.md) — ~10 min
-4. [Run your first workflow](getting-started/04-run-your-first-workflow.md) — type `run Cortex`
+1. [Build your Notion workspace](getting-started/1-build-your-notion-workspace.md) — ~30 min
+2. [Connect Notion MCP](getting-started/2-connect-notion-mcp.md) — ~5 min
+3. [Install the system prompt](getting-started/3-install-system-prompt.md) — ~10 min
+4. [Run your first workflow](getting-started/4-run-your-first-workflow.md) — type `run Cortex`
 
 ---
 

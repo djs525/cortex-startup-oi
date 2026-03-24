@@ -53,7 +53,7 @@ And it scales. A 3-person startup activates Stage 1 and has a complete operating
 Watch `run Cortex` live → [Demo video](#) *(added after recording)*
 
 Duplicate the template and try it yourself:
-👉 **[Get the Cortex Notion template](#)** *(added after publishing)*
+👉 **[Get the Cortex Notion template](#https://cortex-startup-os.notion.site/Cortex-Startup-OS-Template-32c722f645ad81159441c7e947394d35)** 
 
 ---
 
